@@ -37,4 +37,6 @@ DB_NAME=postgres
 
 ```
 
-5.
+5. `npm run dev`
+
+Happy Coding!

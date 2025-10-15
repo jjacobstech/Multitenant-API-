@@ -1,2 +1,5 @@
 node_modules
 .env
+./tests/test-error.txt
+./tests/test.txt
+./tests/test-output.txt
